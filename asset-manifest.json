@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/plot-explorer/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/plot-explorer/static/js/main.4a02a159.chunk.js",
-    "main.js.map": "/plot-explorer/static/js/main.4a02a159.chunk.js.map",
-    "runtime-main.js": "/plot-explorer/static/js/runtime-main.f4bab7c1.js",
-    "runtime-main.js.map": "/plot-explorer/static/js/runtime-main.f4bab7c1.js.map",
-    "static/js/2.360eb3b6.chunk.js": "/plot-explorer/static/js/2.360eb3b6.chunk.js",
-    "static/js/2.360eb3b6.chunk.js.map": "/plot-explorer/static/js/2.360eb3b6.chunk.js.map",
-    "static/js/3.98edb829.chunk.js": "/plot-explorer/static/js/3.98edb829.chunk.js",
-    "static/js/3.98edb829.chunk.js.map": "/plot-explorer/static/js/3.98edb829.chunk.js.map",
+    "main.js": "/plot-explorer/static/js/main.9d8806f9.chunk.js",
+    "main.js.map": "/plot-explorer/static/js/main.9d8806f9.chunk.js.map",
+    "runtime-main.js": "/plot-explorer/static/js/runtime-main.c58d5487.js",
+    "runtime-main.js.map": "/plot-explorer/static/js/runtime-main.c58d5487.js.map",
+    "static/css/2.fe708519.chunk.css": "/plot-explorer/static/css/2.fe708519.chunk.css",
+    "static/js/2.3fbb3d29.chunk.js": "/plot-explorer/static/js/2.3fbb3d29.chunk.js",
+    "static/js/2.3fbb3d29.chunk.js.map": "/plot-explorer/static/js/2.3fbb3d29.chunk.js.map",
+    "static/js/3.5f11e6ce.chunk.js": "/plot-explorer/static/js/3.5f11e6ce.chunk.js",
+    "static/js/3.5f11e6ce.chunk.js.map": "/plot-explorer/static/js/3.5f11e6ce.chunk.js.map",
     "index.html": "/plot-explorer/index.html",
+    "static/css/2.fe708519.chunk.css.map": "/plot-explorer/static/css/2.fe708519.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/plot-explorer/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.360eb3b6.chunk.js.LICENSE.txt": "/plot-explorer/static/js/2.360eb3b6.chunk.js.LICENSE.txt",
+    "static/js/2.3fbb3d29.chunk.js.LICENSE.txt": "/plot-explorer/static/js/2.3fbb3d29.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/plot-explorer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4bab7c1.js",
-    "static/js/2.360eb3b6.chunk.js",
+    "static/js/runtime-main.c58d5487.js",
+    "static/css/2.fe708519.chunk.css",
+    "static/js/2.3fbb3d29.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4a02a159.chunk.js"
+    "static/js/main.9d8806f9.chunk.js"
   ]
 }
